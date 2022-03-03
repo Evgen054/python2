@@ -1,0 +1,15 @@
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\bin\Debug\net6.0\repozit2.exe
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\bin\Debug\net6.0\repozit2.deps.json
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\bin\Debug\net6.0\repozit2.runtimeconfig.json
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\bin\Debug\net6.0\repozit2.dll
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\bin\Debug\net6.0\repozit2.pdb
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\obj\Debug\net6.0\repozit2.csproj.AssemblyReference.cache
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\obj\Debug\net6.0\repozit2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\obj\Debug\net6.0\repozit2.AssemblyInfoInputs.cache
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\obj\Debug\net6.0\repozit2.AssemblyInfo.cs
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\obj\Debug\net6.0\repozit2.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\obj\Debug\net6.0\repozit2.dll
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\obj\Debug\net6.0\refint\repozit2.dll
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\obj\Debug\net6.0\repozit2.pdb
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\obj\Debug\net6.0\repozit2.genruntimeconfig.cache
+C:\Users\Evgeniy D\Desktop\GB\Python\repozit2\obj\Debug\net6.0\ref\repozit2.dll
